@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'mpgpcnettest'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_6ae8a514ade7442db300d104d40146d2 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ab0e1e71b69848709964090516dd7b0d }}

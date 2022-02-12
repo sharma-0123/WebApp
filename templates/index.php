@@ -8,7 +8,7 @@
     </head>
 <body>
     
-<h2><u>DNS RECORD TABLE</u></h2>
+<h2><u>DNS-RECORD TABLE</u></h2>
 
 <div>
   <form action="/action_page.php">

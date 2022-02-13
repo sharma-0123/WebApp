@@ -1,12 +1,12 @@
-from flask import Flask, render_template
+#from flask import Flask, render_template
 import mysql.connector
 from mysql.connector import errorcode
 
-app = Flask(__name__)
+#app = Flask(__name__)
 
-@app.route('/', methods=['GET'])
-def index():
-    return render_template('index.html')
+#@app.route('/', methods=['GET'])
+#def index():
+#    return render_template('index.html')
 
 dbname = "mpsscqueueflexdb"
 username = "flexdbadmin"

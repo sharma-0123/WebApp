@@ -1,4 +1,4 @@
 flask
-mysql-connector-python-rf
+mysql-connector-python-rf=2.2.2
 python-dotenv
 requests

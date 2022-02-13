@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+import mysql.connector
 from mysql.connector import errorcode
 
 app = Flask(__name__)

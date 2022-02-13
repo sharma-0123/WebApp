@@ -17,7 +17,7 @@ $res = mysqli_query($conn, 'SELECT * FROM testqueue');
 while ($row = mysqli_fetch_assoc($res)) {
 var_dump($row);
 }
-
+echo "Testing";
 //Close the connection
 mysqli_close($conn);
 ?>
